@@ -1,6 +1,5 @@
 # MAMMMOth
-
-## Multi-Attribute, Multimodal Bias Mitigation in AI Systems
+Multi-Attribute, Multimodal Bias Mitigation in AI Systems
 
 Please follow the links bellow for Mammoth project repositories
 
@@ -11,8 +10,8 @@ You can find the Fairness Definition Guide to the following repository: [https:/
 
 ## MAMMOth Commons
 
-Fast component development for the MAMMOth fairness toolkit. Check the [repository here.](https://github.com/mammoth-eu/mammoth-commons)
+Fast component development for the MAMMOth fairness toolkit. Check the repository: [https://github.com/mammoth-eu/mammoth-commons](https://github.com/mammoth-eu/mammoth-commons)
 
 ## MAMMOth toolkit
 
-The MAMMOth tookit, an extensible platform for creating and executing pipelines using MAMMOths components. Available at the [repository here.](https://github.com/mammoth-eu/mammoth-toolkit-releases)
+The MAMMOth tookit, an extensible platform for creating and executing pipelines using MAMMOths components. Available at the repository: [https://github.com/mammoth-eu/mammoth-toolkit-releases](https://github.com/mammoth-eu/mammoth-toolkit-releases)

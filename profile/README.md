@@ -1,6 +1,6 @@
 # MAMMMOth
 Welcome to the developer portal of MAMMOth! This is an EU project that aims to create ready-to-use solutions multi-attribute, multimodal bias mitigation in AI systems.
-More information about the project is presented in at [mammoth-ai.eu](https://mammoth-ai.eu/). Here you can find material that you can use during development of fairer systems.
+For more information about the project visit [mammoth-ai.eu](https://mammoth-ai.eu/). Here you can find material that you can use during development of fairer systems.
 
 
 ## What to do?

@@ -9,4 +9,8 @@ For more information about the project visit [mammoth-ai.eu](https://mammoth-ai.
 
 :desktop_computer: Install the [MAMMOth-toolkit](https://github.com/mammoth-eu/mammoth-toolkit-releases) in your organization and consult with it about bias analysis and mitigation in created AI models.
 
+:desktop_computer: Install the toolkit's demonstrator, which is a ligthweight version, from the [mammoth-commons](https://github.com/mammoth-eu/mammoth-commons) repository.
+
 :page_with_curl: Have new methods for bias analysis and mitigation? Easily convert them to toolkit modules with the [mammoth-commons](https://github.com/mammoth-eu/mammoth-commons) library.
+
+:memo: Get an overview of our core modules integrated in the toolkit and demomnstrator by visiting the MAMMOth [catalogue](https://mammoth-eu.github.io/mammoth-commons/).

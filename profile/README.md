@@ -8,6 +8,8 @@ A fairness assessment and mitigation app. It loads datasets and models, and runs
 - [set up a local runner](https://github.com/mammoth-eu/mammoth-commons) - fast bootstrapping, work with local data
 - [set up in your organization's server](https://github.com/mammoth-eu/mammoth-toolkit-releases) - easy and safe sharing of results (data still don't leave your organization's security)
 
+![App demo](https://github.com/mammoth-eu/mammoth-commons/raw/dev/docs/app_demo.gif)
+
 ## 🦣 Software
 
 Across multiple modalities:
@@ -29,6 +31,6 @@ For graphs:
 
 The above software tools also support MAI-BIAS modules. Learn more in our [module catalogue](https://mammoth-eu.github.io/mammoth-commons/).
 
-## 📒 Learn more
+## 📒 Learning material for AI creators
 - [AI Fairness Definition Guide](https://github.com/mammoth-eu/FairnessDefinitionGuide)
 - [Fairness-aware ML Tutorials](https://arjunroyihrpa.github.io/My-Tutorials-FairML/)

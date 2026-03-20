@@ -1,7 +1,9 @@
 # MAMMOth
-Welcome to the developer portal of MAMMOth! This is an EU project that aims to create ready-to-use solutions multi-attribute, multimodal bias mitigation in AI systems.
-Find here material that you can use for the development of fairer systems. 
-For more information about the project visit [mammoth-ai.eu](https://mammoth-ai.eu/). 
+Welcome to MAMMOth! This is an EU project that has created ready-to-use solutions for multi-attribute, multimodal bias mitigation of AI systems. Learn more about the project at [mammoth-ai.eu](https://mammoth-ai.eu/). 
+
+<i>Software developers, policymakers, and non-experts: come visit us at the [MAI-BIAS portal](https://mammoth-eu.github.io/mammoth-commons)!</i>
+
+Since you are already in GitHub, below are quick links to several related repositories. These can be also be discovered from the portal, alongside more material.
 
 ## 🔬 MAI-BIAS toolkit
 A fairness assessment and mitigation app. It loads datasets and models, and runs fairness/bias analysis through the same simple UI:
@@ -32,5 +34,6 @@ For graphs:
 The above software tools also support MAI-BIAS modules. Learn more in our [module catalogue](https://mammoth-eu.github.io/mammoth-commons/).
 
 ## 📒 Learning material for AI creators
+
 - [AI Fairness Definition Guide](https://github.com/mammoth-eu/FairnessDefinitionGuide)
 - [Fairness-aware ML Tutorials](https://arjunroyihrpa.github.io/My-Tutorials-FairML/)

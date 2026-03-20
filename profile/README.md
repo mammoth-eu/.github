@@ -12,9 +12,11 @@ A fairness assessment and mitigation app. It loads datasets and models, and runs
 
 ![App demo](https://github.com/mammoth-eu/mammoth-commons/raw/dev/docs/app_demo.gif)
 
-## 🦣 Software
+## 🦣 Software tools
 
-Across multiple modalities:
+The solutions below support the MAI-BIAS toolkit but are also usable independently. They are organized per data modality.
+
+Covering multiple modalities:
 - [FairBench](https://github.com/mever-team/FairBench) - A comprehensive AI fairness exploration **library** with >300 standardized measures.
 - [MMM-fair](https://github.com/arjunroyihrpa/MMM_fair) - A **library** that supports high-stakes AI decision-making under competing fairness and accuracy demands.
 - [FairBranch](https://github.com/arjunroyihrpa/FairBranch) - **Implementation** of FairBranch pipelines for vision and tabular modalities.
@@ -30,8 +32,6 @@ For visual data:
 For graphs:
 - [NetIn](https://github.com/CSHVienna/NetworkInequalities) - An **library** of methods to study network inequalities. 
 - [pygrank-f](https://github.com/MKLab-ITI/pygrank-f) - **Implementation** of node ranking debiasing in large graphs.
-
-The above software tools also support MAI-BIAS modules. Learn more in our [module catalogue](https://mammoth-eu.github.io/mammoth-commons/).
 
 ## 📒 Learning material for AI creators
 

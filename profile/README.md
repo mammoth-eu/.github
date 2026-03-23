@@ -30,6 +30,8 @@ For visual data:
 - [SDFD](https://github.com/gebaltso/SDFD) - The Stable Diffusion Face-image **Dataset**, which captures a broad spectrum of facial diversity encompassing not only demographics and biometrics but also non-permanent traits like make-up, hairstyle, and accessories.
 
 For graphs:
+- [HyperFair](https://github.com/CSHVienna/hyper_fair) - A **library** for generating, evaluating, and improving rankings under fairness constraints.
+- [multisoc](https://github.com/CSHVienna/multisoc) - A **library** for multivalue and multi-attribute network analyses.
 - [pygrank-f](https://github.com/MKLab-ITI/pygrank-f) - **Implementation** of node ranking debiasing in large graphs.
 
 ## 📒 Learning material for AI creators

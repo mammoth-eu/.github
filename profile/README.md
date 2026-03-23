@@ -30,7 +30,6 @@ For visual data:
 - [SDFD](https://github.com/gebaltso/SDFD) - The Stable Diffusion Face-image **Dataset**, which captures a broad spectrum of facial diversity encompassing not only demographics and biometrics but also non-permanent traits like make-up, hairstyle, and accessories.
 
 For graphs:
-- [NetIn](https://github.com/CSHVienna/NetworkInequalities) - An **library** of methods to study network inequalities. 
 - [pygrank-f](https://github.com/MKLab-ITI/pygrank-f) - **Implementation** of node ranking debiasing in large graphs.
 
 ## 📒 Learning material for AI creators

@@ -23,6 +23,7 @@ Covering multiple modalities:
 
 For tabular data:
 - [MBFPP](https://github.com/arjunroyihrpa/Multi-Fairness-under-Class-Imbalance) - **Implementation** of the work Multi-Fairness-under-Class-Imbalance.
+- [FB-tiny](https://github.com/mever-team/fairbench-tiny) - **Terminal tool** for fast tabular data bias audits with minimal memory and and energy consumptions.
 
 For visual data:
 - [VB-Mitigator](https://github.com/mever-team/vb-mitigator) - **Implementation** and evaluation of existing and new visual bias mitigation methods.
